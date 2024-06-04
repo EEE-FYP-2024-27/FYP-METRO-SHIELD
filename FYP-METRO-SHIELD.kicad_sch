@@ -1448,6 +1448,26 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 50.8) (xy 114.3 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "131f2197-4774-4d2e-ad21-8ae5a17f15ac")
+	)
+	(wire
+		(pts
+			(xy 184.15 78.74) (xy 184.15 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15064500-1634-4114-b774-906433c32899")
+	)
+	(wire
+		(pts
 			(xy 31.75 44.45) (xy 31.75 46.99)
 		)
 		(stroke
@@ -1465,6 +1485,16 @@
 			(type solid)
 		)
 		(uuid "20854542-d0b0-4be7-af02-0e5fceb34e01")
+	)
+	(wire
+		(pts
+			(xy 254 78.74) (xy 184.15 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a4e57da-1279-458b-969d-75bdafdd521e")
 	)
 	(wire
 		(pts
@@ -1538,6 +1568,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 76.2) (xy 107.95 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46dcb34f-63d1-425d-b1b9-d0d3ba8f1839")
+	)
+	(wire
+		(pts
 			(xy 34.29 59.69) (xy 21.59 59.69)
 		)
 		(stroke
@@ -1578,6 +1618,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 76.2) (xy 107.95 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65393128-d087-4bf5-b0a3-3eef789f57fe")
+	)
+	(wire
+		(pts
 			(xy 62.23 67.31) (xy 74.93 67.31)
 		)
 		(stroke
@@ -1585,6 +1635,16 @@
 			(type solid)
 		)
 		(uuid "6bb3ea5f-9e60-4add-9d97-244be2cf61d2")
+	)
+	(wire
+		(pts
+			(xy 254 73.66) (xy 107.95 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73265b88-8299-4aec-bde8-09ccbe4a3eb6")
 	)
 	(wire
 		(pts
@@ -1618,6 +1678,26 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 101.6) (xy 114.3 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ae094d0-4626-4ca9-8f4f-c3ecc877a846")
+	)
+	(wire
+		(pts
+			(xy 107.95 73.66) (xy 107.95 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fb0e65d-7ed2-429b-8c9f-31ceb9b76de1")
+	)
+	(wire
+		(pts
 			(xy 34.29 64.77) (xy 21.59 64.77)
 		)
 		(stroke
@@ -1645,6 +1725,16 @@
 			(type solid)
 		)
 		(uuid "97df9ac9-dbb8-472e-b84f-3684d0eb5efc")
+	)
+	(wire
+		(pts
+			(xy 184.15 101.6) (xy 190.5 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c6e1081-7832-48c4-8b91-5c004016553a")
 	)
 	(wire
 		(pts
@@ -1718,6 +1808,26 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 71.12) (xy 184.15 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e10227f1-f8ef-4549-a223-94b186f8ff56")
+	)
+	(wire
+		(pts
+			(xy 254 71.12) (xy 184.15 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e32c45d5-8896-41d6-b28c-de5b59e516e0")
+	)
+	(wire
+		(pts
 			(xy 62.23 29.21) (xy 74.93 29.21)
 		)
 		(stroke
@@ -1725,6 +1835,16 @@
 			(type solid)
 		)
 		(uuid "e7278977-132b-4777-9eb4-7d93363a4379")
+	)
+	(wire
+		(pts
+			(xy 184.15 44.45) (xy 190.5 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e76c6a0b-afe4-4096-946a-18c9c437e891")
 	)
 	(wire
 		(pts
@@ -1885,6 +2005,17 @@
 		)
 		(uuid "54be04e4-fffa-4f7f-8a5f-d0de81314e8f")
 	)
+	(label "7"
+		(at 139.7 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c5a320a-fc44-455c-99dd-e09fd382f2b6")
+	)
 	(label "A2"
 		(at 215.9 57.15 0)
 		(fields_autoplaced yes)
@@ -1972,6 +2103,17 @@
 			(justify right bottom)
 		)
 		(uuid "9cccf5f9-68a4-4e61-b418-6185dd6a5f9a")
+	)
+	(label "8"
+		(at 215.9 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a742f362-cbc8-4f3a-9f81-1f778e09af72")
 	)
 	(label "A1"
 		(at 21.59 62.23 0)
@@ -2710,6 +2852,223 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 254 68.58 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "11064a04-a3d0-4d2b-9634-bae8d3fb4eb5")
+		(property "Reference" "#PWR026"
+			(at 247.65 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 248.666 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 254 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5674ce8c-4db7-4ea5-a4ad-264e9c764ace")
+		)
+		(instances
+			(project "FYP-METRO-SHIELD"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x08")
+		(at 259.08 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1fcaa04c-14c6-4c06-b888-9656cc93cf9e")
+		(property "Reference" "J5"
+			(at 261.62 73.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x08"
+			(at 261.62 76.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+			(at 259.08 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 259.08 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 259.08 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "82ce066d-e3bd-47a5-bfff-c6b9b7bed1e0")
+		)
+		(pin "3"
+			(uuid "85693f03-e648-4ea4-9177-a75d8998dd67")
+		)
+		(pin "1"
+			(uuid "c4439995-226b-4bcb-95dc-420e71330e6d")
+		)
+		(pin "8"
+			(uuid "0d3eb74e-6f40-4897-8efa-4808b415b247")
+		)
+		(pin "2"
+			(uuid "30496031-8eda-45de-982f-e3a974083e15")
+		)
+		(pin "6"
+			(uuid "016c9038-ccb2-4a7f-ac1d-d9bdb2f3f009")
+		)
+		(pin "5"
+			(uuid "0237bb7b-bbf9-436a-86d0-de795f85ec04")
+		)
+		(pin "7"
+			(uuid "13a27d1a-1869-487a-b5d1-fff4a5172836")
+		)
+		(instances
+			(project "FYP-METRO-SHIELD"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 254 83.82 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "468a6505-d6a4-4ce7-94c6-3ae5b6bc688a")
+		(property "Reference" "#PWR024"
+			(at 257.81 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 250.952 84.1756 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 254 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab99637a-0dfb-47c0-bfc9-ae3cb0419df5")
+		)
+		(instances
+			(project "FYP-METRO-SHIELD"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 26.67 26.67 0)
 		(unit 1)
@@ -2770,6 +3129,135 @@
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 254 66.04 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a431b7e9-504b-4170-af9c-46d64fa2ee94")
+		(property "Reference" "#PWR025"
+			(at 257.81 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 250.952 66.421 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 254 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "abd4fbf1-a338-4572-8a69-b49e8f639c0f")
+		)
+		(instances
+			(project "FYP-METRO-SHIELD"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 254 81.28 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "de038a3a-97ee-4d56-a160-43fcda5372e8")
+		(property "Reference" "#PWR027"
+			(at 247.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 248.666 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 254 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ce74466b-a1f5-463e-b174-739edc2cb476")
+		)
+		(instances
+			(project "FYP-METRO-SHIELD"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)

@@ -1677,7 +1677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm"
 			(at 190.5 90.17 0)
 			(effects
 				(font
@@ -2413,28 +2413,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "d9323be8-b9f4-4f46-8619-f74ff3128ba9")
+			(uuid "d9323be8-b9f4-4f46-8619-f74ff3128baa")
 		)
 		(pin "8"
-			(uuid "e86b7a26-f13a-4a0b-b5c4-159feecba2e9")
+			(uuid "e86b7a26-f13a-4a0b-b5c4-159feecba2ea")
 		)
 		(pin "5"
-			(uuid "dbd0c549-a583-45fa-a59c-0a9e30278c71")
+			(uuid "dbd0c549-a583-45fa-a59c-0a9e30278c72")
 		)
 		(pin "2"
-			(uuid "9f5c3c92-7e84-417b-899f-2de59cc41281")
+			(uuid "9f5c3c92-7e84-417b-899f-2de59cc41282")
 		)
 		(pin "3"
-			(uuid "23e58ac7-31b8-4959-8de4-ec4d37a4a096")
+			(uuid "23e58ac7-31b8-4959-8de4-ec4d37a4a097")
 		)
 		(pin "1"
-			(uuid "9d4a8d99-be0d-4bf2-8de4-ffc04ffca32f")
+			(uuid "9d4a8d99-be0d-4bf2-8de4-ffc04ffca330")
 		)
 		(pin "6"
-			(uuid "116706a3-7c09-4774-8fc9-ae490062e754")
+			(uuid "116706a3-7c09-4774-8fc9-ae490062e755")
 		)
 		(pin "7"
-			(uuid "a88ec465-8896-4666-bd50-26cbf91bf27f")
+			(uuid "a88ec465-8896-4666-bd50-26cbf91bf280")
 		)
 		(instances
 			(project "FYP-METRO-SHIELD"
@@ -2633,28 +2633,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "d9323be8-b9f4-4f46-8619-f74ff3128ba9")
+			(uuid "d9323be8-b9f4-4f46-8619-f74ff3128bab")
 		)
 		(pin "8"
-			(uuid "e86b7a26-f13a-4a0b-b5c4-159feecba2e9")
+			(uuid "e86b7a26-f13a-4a0b-b5c4-159feecba2eb")
 		)
 		(pin "5"
-			(uuid "dbd0c549-a583-45fa-a59c-0a9e30278c71")
+			(uuid "dbd0c549-a583-45fa-a59c-0a9e30278c73")
 		)
 		(pin "2"
-			(uuid "9f5c3c92-7e84-417b-899f-2de59cc41281")
+			(uuid "9f5c3c92-7e84-417b-899f-2de59cc41283")
 		)
 		(pin "3"
-			(uuid "23e58ac7-31b8-4959-8de4-ec4d37a4a096")
+			(uuid "23e58ac7-31b8-4959-8de4-ec4d37a4a098")
 		)
 		(pin "1"
-			(uuid "9d4a8d99-be0d-4bf2-8de4-ffc04ffca32f")
+			(uuid "9d4a8d99-be0d-4bf2-8de4-ffc04ffca331")
 		)
 		(pin "6"
-			(uuid "116706a3-7c09-4774-8fc9-ae490062e754")
+			(uuid "116706a3-7c09-4774-8fc9-ae490062e756")
 		)
 		(pin "7"
-			(uuid "a88ec465-8896-4666-bd50-26cbf91bf27f")
+			(uuid "a88ec465-8896-4666-bd50-26cbf91bf281")
 		)
 		(instances
 			(project "FYP-METRO-SHIELD"

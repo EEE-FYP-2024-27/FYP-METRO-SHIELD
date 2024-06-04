@@ -2606,7 +2606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm"
 			(at 113.03 50.8 0)
 			(effects
 				(font
@@ -2669,7 +2669,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "TBD"
 			(at 147.32 100.33 0)
 			(effects
 				(font
@@ -3054,28 +3054,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "5cb8fc5b-7953-4a8d-b497-dc21be4f7061")
+			(uuid "5cb8fc5b-7953-4a8d-b497-dc21be4f7062")
 		)
 		(pin "3"
-			(uuid "de5c254e-02fd-4b5e-9896-1188d65a5bc0")
+			(uuid "de5c254e-02fd-4b5e-9896-1188d65a5bc1")
 		)
 		(pin "1"
-			(uuid "89678976-0b0e-4600-8239-c456e6de638d")
+			(uuid "89678976-0b0e-4600-8239-c456e6de638e")
 		)
 		(pin "2"
-			(uuid "9570e0c8-f4dd-4b96-8a6e-04628596634a")
+			(uuid "9570e0c8-f4dd-4b96-8a6e-04628596634b")
 		)
 		(pin "7"
-			(uuid "333beec0-780e-4b86-90cd-2959348c156e")
+			(uuid "333beec0-780e-4b86-90cd-2959348c156f")
 		)
 		(pin "4"
-			(uuid "19a308b0-199d-4641-b0aa-55cdc572068f")
+			(uuid "19a308b0-199d-4641-b0aa-55cdc5720690")
 		)
 		(pin "6"
-			(uuid "a0765c61-9bce-4533-988d-d253e465cff8")
+			(uuid "a0765c61-9bce-4533-988d-d253e465cff9")
 		)
 		(pin "5"
-			(uuid "ab54b80c-7071-4d34-9b10-c599c46b6079")
+			(uuid "ab54b80c-7071-4d34-9b10-c599c46b607a")
 		)
 		(instances
 			(project "FYP-METRO-SHIELD"
@@ -3280,28 +3280,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "5cb8fc5b-7953-4a8d-b497-dc21be4f7061")
+			(uuid "5cb8fc5b-7953-4a8d-b497-dc21be4f7063")
 		)
 		(pin "3"
-			(uuid "de5c254e-02fd-4b5e-9896-1188d65a5bc0")
+			(uuid "de5c254e-02fd-4b5e-9896-1188d65a5bc2")
 		)
 		(pin "1"
-			(uuid "89678976-0b0e-4600-8239-c456e6de638d")
+			(uuid "89678976-0b0e-4600-8239-c456e6de638f")
 		)
 		(pin "2"
-			(uuid "9570e0c8-f4dd-4b96-8a6e-04628596634a")
+			(uuid "9570e0c8-f4dd-4b96-8a6e-04628596634c")
 		)
 		(pin "7"
-			(uuid "333beec0-780e-4b86-90cd-2959348c156e")
+			(uuid "333beec0-780e-4b86-90cd-2959348c1570")
 		)
 		(pin "4"
-			(uuid "19a308b0-199d-4641-b0aa-55cdc572068f")
+			(uuid "19a308b0-199d-4641-b0aa-55cdc5720691")
 		)
 		(pin "6"
-			(uuid "a0765c61-9bce-4533-988d-d253e465cff8")
+			(uuid "a0765c61-9bce-4533-988d-d253e465cffa")
 		)
 		(pin "5"
-			(uuid "ab54b80c-7071-4d34-9b10-c599c46b6079")
+			(uuid "ab54b80c-7071-4d34-9b10-c599c46b607b")
 		)
 		(instances
 			(project "FYP-METRO-SHIELD"
@@ -3811,7 +3811,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f8096c47-9a40-4919-bfba-de26cc3c1a53")
 		(property "Reference" "RV1"
 			(at 184.15 121.92 90)
@@ -3821,7 +3820,7 @@
 				)
 			)
 		)
-		(property "Value" "TBD"
+		(property "Value" "100k"
 			(at 184.15 124.46 90)
 			(effects
 				(font
@@ -3829,7 +3828,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TBD"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_T93YA_Vertical"
 			(at 184.15 118.11 0)
 			(effects
 				(font
