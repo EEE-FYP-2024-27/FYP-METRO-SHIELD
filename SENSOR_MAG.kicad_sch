@@ -1505,7 +1505,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3456683e-7222-4f6d-9cbe-41d5ed7f9c02")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR018"
 			(at 190.5 115.57 0)
 			(effects
 				(font
@@ -1555,7 +1555,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "#PWR015")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -1571,7 +1571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d994b2f-abde-4345-897a-270c3cea518b")
-		(property "Reference" "R11"
+		(property "Reference" "R9"
 			(at 129.54 148.5899 0)
 			(effects
 				(font
@@ -1625,7 +1625,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "R11")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -1641,7 +1641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51e6cbd0-0fa8-4f38-aee4-73a4eaf5b29b")
-		(property "Reference" "R9"
+		(property "Reference" "R11"
 			(at 148.59 107.95 90)
 			(effects
 				(font
@@ -1693,7 +1693,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "R9")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -1708,7 +1708,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "69f94735-1a6b-438d-af04-03ad6ae66881")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR017"
 			(at 190.5 97.79 0)
 			(effects
 				(font
@@ -1757,7 +1757,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "#PWR014")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -2009,7 +2009,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c446dc3f-5909-46d3-bc31-4e9ca1054d82")
-		(property "Reference" "R8"
+		(property "Reference" "R10"
 			(at 148.59 82.55 90)
 			(effects
 				(font
@@ -2061,7 +2061,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "R8")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -2231,7 +2231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0585ae9-80a3-4732-a70f-cbc143e14d60")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR014"
 			(at 107.95 105.41 0)
 			(effects
 				(font
@@ -2281,7 +2281,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "#PWR013")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -2383,7 +2383,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f305e62b-9788-4acf-8deb-74f5dc82e237")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR015"
 			(at 127 134.62 0)
 			(effects
 				(font
@@ -2433,7 +2433,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "#PWR08")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -2449,7 +2449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f700a584-6fc9-4a47-bdd0-c2757014ad3e")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR016"
 			(at 127 162.56 0)
 			(effects
 				(font
@@ -2499,7 +2499,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "#PWR011")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -2585,7 +2585,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdcdb446-ad80-48a8-bd6a-be7cd1629134")
-		(property "Reference" "R10"
+		(property "Reference" "R8"
 			(at 129.54 135.8899 0)
 			(effects
 				(font
@@ -2639,7 +2639,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/34dd5c7d-5baf-410c-bd27-f7fd5a797461"
-					(reference "R10")
+					(reference "R8")
 					(unit 1)
 				)
 			)

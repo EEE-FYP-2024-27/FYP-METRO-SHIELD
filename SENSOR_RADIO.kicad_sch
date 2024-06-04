@@ -1643,12 +1643,6 @@
 		(uuid "37963c51-a3ac-409e-b7ed-689bcacc5c88")
 	)
 	(junction
-		(at 63.5 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4366745b-5777-47a7-89cd-f6e9cf4f1d47")
-	)
-	(junction
 		(at 95.25 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1659,6 +1653,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "505e1fbe-1f30-43b6-89b5-af18e3aec1b3")
+	)
+	(junction
+		(at 63.5 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "564583fa-2a39-48c6-a0c8-6ec053bfc102")
 	)
 	(junction
 		(at 241.3 85.09)
@@ -1679,12 +1679,6 @@
 		(uuid "73c3f7af-2890-4cae-80f7-83b807f4c2af")
 	)
 	(junction
-		(at 63.5 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7454bd43-339d-4ecf-981e-8a4121c3e7c2")
-	)
-	(junction
 		(at 69.85 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1701,6 +1695,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5afd8d7-c7d9-4eea-8424-fe8af2dad336")
+	)
+	(junction
+		(at 63.5 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa200ea3-c812-4737-a090-87c31857efe4")
 	)
 	(junction
 		(at 107.95 95.25)
@@ -2354,7 +2354,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c6d3ba4-1b81-4b83-b27d-656efb840671")
-		(property "Reference" "R15"
+		(property "Reference" "R16"
 			(at 82.55 114.3 90)
 			(effects
 				(font
@@ -2406,7 +2406,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "R15")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -2490,7 +2490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a39d5b4-1366-42f1-a5fd-dc1b4dec2b32")
-		(property "Reference" "JP1"
+		(property "Reference" "JP2"
 			(at 219.71 104.14 0)
 			(effects
 				(font
@@ -2546,7 +2546,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "JP1")
+					(reference "JP2")
 					(unit 1)
 				)
 			)
@@ -2562,7 +2562,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e4dcf7a-5e23-4f0a-b811-3cb25f07169b")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 152.4 69.85 0)
 			(effects
 				(font
@@ -2612,7 +2612,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -2628,7 +2628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fb01d25-932b-4b35-a68c-6d21a9798004")
-		(property "Reference" "D5"
+		(property "Reference" "D4"
 			(at 178.1175 76.2 0)
 			(effects
 				(font
@@ -2680,7 +2680,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "D5")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -2761,7 +2761,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ad1ca54-2934-4bf4-8870-27342ce15d6a")
-		(property "Reference" "RV2"
+		(property "Reference" "RV5"
 			(at 209.55 111.76 90)
 			(effects
 				(font
@@ -2816,7 +2816,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "RV2")
+					(reference "RV5")
 					(unit 1)
 				)
 			)
@@ -2832,7 +2832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "525b5a59-35ae-4a9e-b24b-4122742ff278")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR028"
 			(at 63.5 46.99 0)
 			(effects
 				(font
@@ -2882,94 +2882,8 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "#PWR029")
+					(reference "#PWR028")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Operational:MCP602")
-		(at 165.1 82.55 0)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "531dad91-ccf8-4a83-8df1-bdf5c48305b3")
-		(property "Reference" "U4"
-			(at 165.1 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MCP602"
-			(at 165.1 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf"
-			(at 165.1 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8"
-			(at 165.1 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "c350cd89-1a6e-486c-9aa6-70e5958d3b92")
-		)
-		(pin "8"
-			(uuid "9dcb307e-100d-4eba-9178-cb58921d4bce")
-		)
-		(pin "2"
-			(uuid "b0462af1-a179-4880-a2d3-dde5f0b1e2fc")
-		)
-		(pin "1"
-			(uuid "a8ba62eb-4d7e-42fc-8ad0-d9cdc2516949")
-		)
-		(pin "7"
-			(uuid "ba7879d8-eb57-43b1-8ed4-b6d16a498478")
-		)
-		(pin "4"
-			(uuid "18a16529-18fb-446e-97cb-569aa3195ad4")
-		)
-		(pin "5"
-			(uuid "2f396808-b67b-42cf-8611-5da533f81efd")
-		)
-		(pin "6"
-			(uuid "d23d1dd6-2d12-4e34-bccd-8eafa8aa857d")
-		)
-		(instances
-			(project "FYP-METRO-SHIELD"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "U4")
-					(unit 2)
 				)
 			)
 		)
@@ -2984,7 +2898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e3ecc7b-f686-4f26-bb0e-6e52d5215b2c")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR036"
 			(at 209.55 107.95 0)
 			(effects
 				(font
@@ -3035,92 +2949,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Operational:MCP602")
-		(at 82.55 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6a3ab89e-cc3e-4216-a779-8e1577b29e81")
-		(property "Reference" "U4"
-			(at 82.55 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MCP602"
-			(at 82.55 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 82.55 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf"
-			(at 82.55 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8"
-			(at 82.55 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "c350cd89-1a6e-486c-9aa6-70e5958d3b93")
-		)
-		(pin "8"
-			(uuid "9dcb307e-100d-4eba-9178-cb58921d4bcf")
-		)
-		(pin "2"
-			(uuid "b0462af1-a179-4880-a2d3-dde5f0b1e2fd")
-		)
-		(pin "1"
-			(uuid "a8ba62eb-4d7e-42fc-8ad0-d9cdc251694a")
-		)
-		(pin "7"
-			(uuid "ba7879d8-eb57-43b1-8ed4-b6d16a498479")
-		)
-		(pin "4"
-			(uuid "18a16529-18fb-446e-97cb-569aa3195ad5")
-		)
-		(pin "5"
-			(uuid "2f396808-b67b-42cf-8611-5da533f81efe")
-		)
-		(pin "6"
-			(uuid "d23d1dd6-2d12-4e34-bccd-8eafa8aa857e")
-		)
-		(instances
-			(project "FYP-METRO-SHIELD"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "U4")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -3338,34 +3167,32 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:MCP602")
-		(at 66.04 50.8 0)
-		(unit 3)
+		(at 82.55 95.25 0)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "86b66d51-8964-4cf7-b963-361b0631b0eb")
+		(uuid "895219d5-5666-4834-a7c6-9af21b5d3f71")
 		(property "Reference" "U4"
-			(at 64.77 49.5299 0)
+			(at 82.55 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "MCP602"
-			(at 64.77 52.0699 0)
+			(at 82.55 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 66.04 50.8 0)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3374,7 +3201,7 @@
 			)
 		)
 		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf"
-			(at 66.04 50.8 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3383,7 +3210,7 @@
 			)
 		)
 		(property "Description" "Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8"
-			(at 66.04 50.8 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3391,35 +3218,35 @@
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "c350cd89-1a6e-486c-9aa6-70e5958d3b94")
-		)
 		(pin "8"
-			(uuid "9dcb307e-100d-4eba-9178-cb58921d4bd0")
-		)
-		(pin "2"
-			(uuid "b0462af1-a179-4880-a2d3-dde5f0b1e2fe")
-		)
-		(pin "1"
-			(uuid "a8ba62eb-4d7e-42fc-8ad0-d9cdc251694b")
-		)
-		(pin "7"
-			(uuid "ba7879d8-eb57-43b1-8ed4-b6d16a49847a")
-		)
-		(pin "4"
-			(uuid "18a16529-18fb-446e-97cb-569aa3195ad6")
+			(uuid "98438f68-2dcd-48f2-bfc3-ab19fdc790d9")
 		)
 		(pin "5"
-			(uuid "2f396808-b67b-42cf-8611-5da533f81eff")
+			(uuid "dcc8b384-75de-4daa-b653-35449d5ee1d1")
+		)
+		(pin "2"
+			(uuid "691caf3a-f758-4e2c-bc61-a0fa6b025725")
+		)
+		(pin "1"
+			(uuid "988c6496-e426-488c-b805-02f084fa985c")
+		)
+		(pin "3"
+			(uuid "0956ed26-0cfb-443f-be1c-4e944d9d3107")
 		)
 		(pin "6"
-			(uuid "d23d1dd6-2d12-4e34-bccd-8eafa8aa857f")
+			(uuid "6f6ae152-7345-4cdd-bb10-69a3c8fd7f11")
+		)
+		(pin "4"
+			(uuid "7fbca441-29a0-4d58-bf8e-eb12780b164c")
+		)
+		(pin "7"
+			(uuid "08a3e56f-da82-4ac9-b9b0-8797d747a14c")
 		)
 		(instances
-			(project "FYP-METRO-SHIELD"
+			(project ""
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
 					(reference "U4")
-					(unit 3)
+					(unit 1)
 				)
 			)
 		)
@@ -3443,7 +3270,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n	"
+		(property "Value" "100n"
 			(at 80.01 52.0699 0)
 			(effects
 				(font
@@ -3496,15 +3323,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 50.8 101.6 270)
+		(at 50.8 101.6 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9b17a00f-a1d1-46b7-8900-73a67e04326f")
-		(property "Reference" "RV4"
+		(property "Reference" "RV3"
 			(at 50.8 95.25 90)
 			(effects
 				(font
@@ -3559,7 +3386,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "RV4")
+					(reference "RV3")
 					(unit 1)
 				)
 			)
@@ -3575,7 +3402,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a079d0cc-0c90-43cc-a909-ff9d3aabaad9")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR035"
 			(at 199.39 107.95 0)
 			(effects
 				(font
@@ -3626,8 +3453,94 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "#PWR021")
+					(reference "#PWR035")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:MCP602")
+		(at 165.1 82.55 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac743417-a415-43bb-9470-049b4c954384")
+		(property "Reference" "U4"
+			(at 165.1 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MCP602"
+			(at 165.1 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 165.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf"
+			(at 165.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8"
+			(at 165.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "98438f68-2dcd-48f2-bfc3-ab19fdc790da")
+		)
+		(pin "5"
+			(uuid "dcc8b384-75de-4daa-b653-35449d5ee1d2")
+		)
+		(pin "2"
+			(uuid "691caf3a-f758-4e2c-bc61-a0fa6b025726")
+		)
+		(pin "1"
+			(uuid "988c6496-e426-488c-b805-02f084fa985d")
+		)
+		(pin "3"
+			(uuid "0956ed26-0cfb-443f-be1c-4e944d9d3108")
+		)
+		(pin "6"
+			(uuid "6f6ae152-7345-4cdd-bb10-69a3c8fd7f12")
+		)
+		(pin "4"
+			(uuid "7fbca441-29a0-4d58-bf8e-eb12780b164d")
+		)
+		(pin "7"
+			(uuid "08a3e56f-da82-4ac9-b9b0-8797d747a14d")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
+					(reference "U4")
+					(unit 2)
 				)
 			)
 		)
@@ -3642,7 +3555,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac9520f4-a2aa-4eb4-ae08-f8d3bfb3038a")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR029"
 			(at 63.5 64.77 0)
 			(effects
 				(font
@@ -3692,7 +3605,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "#PWR028")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -3708,7 +3621,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b4c20cfa-fcb4-4342-95ed-a08898b05bc9")
-		(property "Reference" "R16"
+		(property "Reference" "R15"
 			(at 57.15 114.3 90)
 			(effects
 				(font
@@ -3760,7 +3673,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "R16")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -3914,7 +3827,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc175a1c-427e-4791-b095-8545a176eab7")
-		(property "Reference" "RV3"
+		(property "Reference" "RV4"
 			(at 133.35 82.55 90)
 			(effects
 				(font
@@ -3969,7 +3882,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "RV3")
+					(reference "RV4")
 					(unit 1)
 				)
 			)
@@ -3985,7 +3898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcf0ad2d-4c73-428e-878d-2ea130a2f7ed")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 123.19 100.0124 90)
 			(effects
 				(font
@@ -4039,7 +3952,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -4055,7 +3968,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd40fdc7-56a4-4337-9b0a-94c293a3b970")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR032"
 			(at 120.65 114.3 0)
 			(effects
 				(font
@@ -4105,8 +4018,96 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "#PWR036")
+					(reference "#PWR032")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:MCP602")
+		(at 66.04 50.8 0)
+		(unit 3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d25188b0-3d71-4a8f-aaf7-089bdb7adad2")
+		(property "Reference" "U4"
+			(at 64.77 49.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MCP602"
+			(at 64.77 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 66.04 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf"
+			(at 66.04 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8"
+			(at 66.04 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "98438f68-2dcd-48f2-bfc3-ab19fdc790db")
+		)
+		(pin "5"
+			(uuid "dcc8b384-75de-4daa-b653-35449d5ee1d3")
+		)
+		(pin "2"
+			(uuid "691caf3a-f758-4e2c-bc61-a0fa6b025727")
+		)
+		(pin "1"
+			(uuid "988c6496-e426-488c-b805-02f084fa985e")
+		)
+		(pin "3"
+			(uuid "0956ed26-0cfb-443f-be1c-4e944d9d3109")
+		)
+		(pin "6"
+			(uuid "6f6ae152-7345-4cdd-bb10-69a3c8fd7f13")
+		)
+		(pin "4"
+			(uuid "7fbca441-29a0-4d58-bf8e-eb12780b164e")
+		)
+		(pin "7"
+			(uuid "08a3e56f-da82-4ac9-b9b0-8797d747a14e")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
+					(reference "U4")
+					(unit 3)
 				)
 			)
 		)
@@ -4321,7 +4322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f63a64f7-d6ed-49ad-9480-8051e60509a9")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR037"
 			(at 241.3 78.74 0)
 			(effects
 				(font
@@ -4371,7 +4372,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "#PWR035")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -4387,7 +4388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffea958b-8584-4d29-a93d-e87175af903c")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 229.87 74.93 0)
 			(effects
 				(font
@@ -4457,7 +4458,7 @@
 		(instances
 			(project "FYP-METRO-SHIELD"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b3748ca2-a5e8-4ff2-bff4-4820723adc53"
-					(reference "U2")
+					(reference "U3")
 					(unit 2)
 				)
 			)
