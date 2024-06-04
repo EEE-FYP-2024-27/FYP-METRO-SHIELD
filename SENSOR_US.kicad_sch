@@ -3192,7 +3192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_T93YA_Vertical"
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
 			(at 184.15 118.11 0)
 			(effects
 				(font

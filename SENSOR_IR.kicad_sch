@@ -1538,7 +1538,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
 			(at 165.1 95.25 0)
 			(effects
 				(font
